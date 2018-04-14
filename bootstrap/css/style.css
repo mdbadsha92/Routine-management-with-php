@@ -1,0 +1,63 @@
+.row{
+  margin-top:45px;
+  margin-bottom: 30px
+}
+.login-style{
+	background-color:#222d32;
+	color:white;
+	padding-left:5px;
+}
+.login-style login{
+	background-color:#222d32;
+	color:white;
+	
+}
+.s_button{
+	color:#222d32;;
+}
+.notice-bord{
+background-color:#222d32;
+color:white;
+margin-top:20px;
+margin-bottom:5px;
+padding-bottom:47px;
+padding-left:5px;
+padding-top:7px;
+padding-right:5px;	
+}
+.header{
+font-size:bold;
+background-color:#222d50;
+font-weight:50px;
+color:
+}
+.notice-bord2{
+background-color:#222d32;
+color:white;
+margin-top:20px;
+margin-bottom:5px;
+padding-bottom:80px;
+padding-left:5px;
+padding-top:7px;
+padding-right:5px;	
+}
+.main-footer{
+background-color:#222d00;
+color:white;
+}
+.icon-align{
+position: relative;
+    left: 180px;
+    top: 60px;
+    font-size: -webkit-xxx-large;
+	
+}
+.text-h1{
+ color:white;	
+}
+.text-center{
+	 color:white;
+}
+.btn-logout{
+	background-color:#222d32;
+}
